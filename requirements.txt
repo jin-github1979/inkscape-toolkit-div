@@ -1,0 +1,7 @@
+Pillow==9.3.0
+cairosvg==2.5.2
+svgpathtools==1.5.1
+beautifulsoup4==4.11.1
+lxml==4.6.4
+scikit-image==0.19.3
+numpy==1.21.6
